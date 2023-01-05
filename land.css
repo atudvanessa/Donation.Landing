@@ -1,0 +1,170 @@
+body{
+    font-size: large;
+    line-height: 2rem;
+}
+.header{
+    display: flex;
+    background-color: rgb(218, 206, 206);
+    color: black;
+    gap: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    background-color: rgb(247, 230, 210);
+    padding-left: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.literacy{
+    color: orange;
+}
+.donate{
+    background-color: orange;
+    border-radius: 15px;
+    width: 7rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.first{
+    padding-left: 2rem;
+}
+.rightm{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem; padding-top: 2rem;
+}
+.first{
+    background-image: url(./images\ \(2\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    opacity: 0.8;
+    padding-top: 3rem;
+   
+}
+
+.double{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.fourth{
+    display: flex;
+    justify-content: space-evenly;
+}
+.third{
+    background-image: url(./images\ \(3\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 15rem;
+    background-color: orange;
+    padding-top: 4.5rem;
+    opacity: 0.5;
+}
+.miss{
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+.success{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.big{
+    background-color: rgb(248, 232, 212);
+    padding-top: 2rem;
+} .faqs{
+    display: flex;
+    justify-content: space-around;
+}
+.firth{
+    padding-left: 6rem;
+    
+}
+.educate{
+    line-height: 5rem;
+    color: white;
+}
+.text{
+   margin-left: 4rem;
+}
+button{
+    width: 7rem;
+    height: 4rem;
+    border-radius: 25px;
+    border: 0;
+}
+.butto{
+    width: 9rem;
+    height: 2rem;
+    background-color: orange;
+    border: 0;
+} .footer{
+    background-color: black;
+    height: 9rem;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 2rem;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-facebook {
+    /* background: #3B5998; */
+    color: white;
+  }
+  
+  .fa-twitter {
+    /* background: #55ACEE; */
+    color: white;
+  }
+  .fa-instagram {
+    /* background: #125688; */
+    color: white;
+  }
+  
+  .fa-pinterest {
+    /* background: #cb2027; */
+    color: white;
+  }.fa-linkedin {
+    /* background: #007bb5; */
+    color: white;
+  }
+  .div{
+    height: 20rem;
+    background-color: rgb(248, 232, 212);
+   padding-top: 7rem;
+  }
+  .staff,.volun, .part,.founder{
+    margin-left: 3rem;
+    font-weight: 400;
+  }
+ 
