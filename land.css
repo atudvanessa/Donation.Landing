@@ -167,4 +167,34 @@ button{
     margin-left: 3rem;
     font-weight: 400;
   }
+  .april{
+    display: flex;
+    flex: column;
+    gap: 2rem;
+   padding-left: 15rem;
+   padding-right: 15rem;
+  }
+  .help{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .us{
+    font-size: 3rem;
+  }
+  .don{
+    justify-content: center;
+    text-align: center;
+  }
+  .up{
+    justify-content: center;
+    text-align: center;
+  } h1{
+    font-size: 3rem;
+  }
+  .without{
+    justify-content: center;
+    text-align: center;
+  }
+  
  
